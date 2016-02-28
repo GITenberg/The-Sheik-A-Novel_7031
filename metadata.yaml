@@ -1,0 +1,33 @@
+_repo: The-Sheik-A-Novel_7031
+creator:
+  author:
+    agent_name: Hull, E. M. (Edith Maude)
+    alias: Hull, Edith Maude
+    deathdate: 1947
+    gutenberg_agent_id: '2313'
+    url: http://www.gutenberg.org/2009/agents/2313
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Maude_Hull
+description: Dana Mayo is young, beautiful, wealthy, and independent. Bored by the
+  eligible bachelors and endless parties of the English aristocrats, she arranged
+  for a trek through the Algerian desert. Two days into the her adventure, she is
+  kidnapped by the powerful Sheik Ahmed Ben-Hassan, who forces her into submission.
+  Dan tries desparately to resist but finds herself falling in love with the dark
+  and handsome stranger. What follows is a tale of mystery, power, and forbidden love
+  fulfilled.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Egypt -- Fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Love stories'
+title: 'The Sheik: A Novel'
+url: http://www.gutenberg.org/ebooks/7031
